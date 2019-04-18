@@ -5,7 +5,7 @@ Maven repositories used:
 MYSQL: mysql:mysql-connector-java:8.0.11
 CSV: org.apache.commons:commons-csv:1.6
 
-Special instructions
+Special instructions:
 For the command line for the python script, the first argument is the number of animals to be generated, and the second is the name of the file.
 
 i.e. running this on the command line:
